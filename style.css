@@ -1,0 +1,64 @@
+body {
+    padding: 50px;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    color: rgb(88, 87, 87);
+    background-color: rgb(243, 240, 240) !important;
+}
+
+td:hover {
+    scale: 1.5;
+    transition: 0.1s;
+    border-radius: 20px;
+    text-align: center;
+}
+
+table {
+    height: auto;
+    width: auto;
+    background-color: antiquewhite;
+    text-align: center;
+    table-layout: fixed;
+}
+
+thead {
+    color: rgb(61, 63, 63);
+    background-color: bisque; 
+}
+
+.dwec {
+    background-color: rgb(109, 231, 231) !important;
+}
+
+.dwes {
+    background-color: rgb(164, 214, 151) !important;
+}
+
+.daw {
+    background-color: rgb(230, 92, 99) !important;
+}
+
+.diw {
+    background-color: rgb(212, 136, 228) !important;
+}
+
+.tut {
+    background-color: rgb(150, 228, 228) !important;
+}
+
+.eie {
+    background-color: rgb(228, 137, 19) !important;
+}
+
+.ing {
+    background-color: rgb(216, 178, 54) !important;
+}
+
+.free {
+    background-color: rgb(223, 189, 189) !important;
+}
